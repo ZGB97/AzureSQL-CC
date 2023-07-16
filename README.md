@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Creating and Configuring SQL Databases in Azure
+Creating and Configuring SQL Database in Azure
 <br />
 
 
